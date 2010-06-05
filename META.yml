@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                App-BCVI-InstallManager
-version:             1.00
+version:             1.01
 abstract:            Track where bcvi is installed, to manage updates
 license:             ~
 author:              
